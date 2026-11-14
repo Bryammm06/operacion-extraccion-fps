@@ -6,4 +6,13 @@ Videojuego tridimensional en primera persona (First-Person Shooter) desarrollado
 ## Requisitos e Instrucciones de Instalación y Ejecución
 1. Clonar o descargar este repositorio en tu computadora:
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone <https://github.com/Bryammm06/operacion-extraccion-fps>
+   
+## INSTRUCCIONES
+Controles del Videojuego
+Control: W, A, S, D  
+Acción: Desplazamiento del jugador (Avanzar, Izquierda, Retroceder, Derecha)
+Movimiento del Mouse: Orientar la cámara en primera persona (360°)
+Clic Izquierdo: Disparar una vez (semiautomático: 1 disparo por clic)
+Tecla 1: Seleccionar Arma 1 (Principal)
+Tecla 2: Seleccionar Arma 2 (Secundaria)
